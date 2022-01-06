@@ -1,0 +1,6 @@
+---
+geometry: margin=1in
+header-includes: |
+    \pagenumbering{gobble}
+    \usepackage{amsmath}
+---
